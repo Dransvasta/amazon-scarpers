@@ -10,20 +10,15 @@ This repository contains a suite of Amazon scrapers designed to extract valuable
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/amazon-scrapers.git`
+1. Clone the repository: `git clone https://github.com/Dransvasta/amazon-scarpers`
 2. Navigate to the project directory: `cd amazon-scrapers`
 3. Install dependencies: `pip install -r requirements.txt`
 
 ## Usage
 
 1. Choose the desired scraper.
-2. Run the scraper script: `python search_results_scraper.py`
-3. Customize parameters as needed.
+2. Run the scraper script: `python scarper_name.py`
 4. Retrieve scraped data in the `output` directory.
-
-## Configuration
-
-Modify the configuration files (`config.json`) to tailor the scrapers to your specific requirements.
 
 ## Contributing
 
