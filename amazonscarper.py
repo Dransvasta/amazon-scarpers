@@ -51,4 +51,4 @@ while(1):
         dlist.append(d)
     page+=1
 df = pd.DataFrame(dlist)
-df.to_excel('serchresults.xlsx',index=False)
+df.to_excel('output/serchresults.xlsx',index=False)

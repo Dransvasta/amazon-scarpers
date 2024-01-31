@@ -63,5 +63,5 @@ while(1):
       dlist.append(d)
     pagenum+=1
 df= pd.DataFrame(dlist)
-df.to_excel('reviews.xlsx')
+df.to_excel('output/reviews.xlsx')
 #fi = open('reviewpage.html','w',encoding='utf-8')

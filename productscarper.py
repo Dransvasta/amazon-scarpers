@@ -40,5 +40,5 @@ d['About this item']=about
 d['product-information']=dpro
 d['reviewlink']=reviewlink['href']
 
-with open("product.json", "w") as f:
+with open("output/product.json", "w") as f:
     json.dump(d, f)
